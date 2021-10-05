@@ -1,0 +1,42 @@
+.buttonInc {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #3bbd46;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+  }
+  
+  .buttonInc:hover {background-color: #0c9454}
+  
+  .buttonInc:active {
+    background-color: #20bb5c;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+
+  .buttonDec {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #f10707;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+  }
+  
+  .buttonDec:hover {background-color: #ec0f0f}
+  
+  .buttonDec:active {
+    background-color: #da3e3e;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
